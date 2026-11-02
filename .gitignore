@@ -1,0 +1,5 @@
+config.json
+state.json
+watcher.log
+crash.txt
+__pycache__/
